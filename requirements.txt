@@ -1,5 +1,5 @@
 teachbooks==0.2.4
-sphinx_apa_references @ git+https://github.com/quadriga-dk/Sphinx-APA-References.git@200bc1009ded277e410a05ac733165153562d2fa
+sphinx_apa_references @ git+https://github.com/quadriga-dk/Sphinx-APA-References.git@69a75081166b23b3eb4b8902c3366374c4c84554
 
 sphinx-inline-tabs
 git+https://github.com/TeachBooks/TeachBooks-Favourites@all_authors
